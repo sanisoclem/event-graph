@@ -1,0 +1,9 @@
+[package]
+name = "event-graph"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+neo4rs = "0.5.9"
+rusted_cypher = "1.1.0"
+cqlite = "0.2.1"
